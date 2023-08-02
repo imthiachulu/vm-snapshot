@@ -5,7 +5,7 @@
 
   <p>This PowerCLI script automates the process of taking a VM snapshot in VMware and tracks the time taken for this task. It simplifies snapshot management and ensures efficient tracking of snapshot creation for better VM management.</p>
 
-<img src="http://imthiyaz.cloud/wp-content/uploads/2023/08/snapshot-powercli-1.png" alt="Girl in a jacket" width="100%" height="600">
+<img src="http://imthiyaz.cloud/wp-content/uploads/2023/08/snapshot-powercli-1.png" alt="Girl in a jacket" width="100%" height="100%">
 
  <h2>Changelog</h2>
 <ol>
